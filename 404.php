@@ -6,11 +6,11 @@
 					<article id="post-not-found">
 
 						<header>
-							<h2><?php _e('Article Not Found', 'bonestheme'); ?></h2>
+							<h2><?php _e('Article Not Found'); ?></h2>
 						</header> <!-- end article header -->
 					
 						<section class="post_content">							
-							<p><?php _e('The article you were looking for was not found, but maybe try looking again!", "bonestheme'); ?></p>
+							<p><?php _e('The article you were looking for was not found, but maybe try looking again!'); ?></p>
 						</section> <!-- end article section -->
 						
 						<footer>
